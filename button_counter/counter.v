@@ -15,7 +15,7 @@ module counter(
 	localparam STATE_WAIT = 2'd1;
 	localparam STATE_INCREMENT = 2'd2;
 
-	localparam MAX_CLK_COUNT = 20'd960000;
+	localparam MAX_CLK_COUNT = 20'd960000; // 80ms delay
 
 	assign rst = ~rst_button;
 	assign inc = ~inc_button;
