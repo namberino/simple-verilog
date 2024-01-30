@@ -1,0 +1,8 @@
+# LEDS (define physical pin connections)
+set_io				led[0]	99
+set_io				led[1]	98
+set_io				led[2]	97
+
+# pmod (peripheral module) i/o (enable pullup resistor for particular pins)
+set_io -pullup yes	pmod[0]	78
+set_io -pullup yes	pmod[1]	79

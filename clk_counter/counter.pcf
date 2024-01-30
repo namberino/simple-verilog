@@ -1,0 +1,11 @@
+# clock signal
+set_io				clk		21
+
+# LEDs
+set_io				led[0]	99
+set_io				led[1]	98
+set_io				led[2]	97
+set_io				led[3]	96
+
+# pmod i/o
+set_io -pullup yes	rst_button 79

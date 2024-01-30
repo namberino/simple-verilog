@@ -1,0 +1,7 @@
+set_io				led[0]	99
+set_io				led[1]	98
+set_io				led[2]	97
+set_io				led[3]	96
+
+set_io -pullup yes	pmod[0]	79
+set_io -pullup yes	pmod[1] 78
