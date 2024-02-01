@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Wed Jan 31 09:15:34 2024
+[*]
+[dumpfile] "/home/nam/Lab/fpga/icestick/div_testbench/clock_div_tb.vcd"
+[dumpfile_mtime] "Wed Jan 31 09:12:55 2024"
+[dumpfile_size] 4050
+[savefile] "/home/nam/Lab/fpga/icestick/div_testbench/clock_div_tb.gtkw"
+[timestart] 2848000
+[size] 1231 779
+[pos] 280 20
+*-19.000000 3958650 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] clock_div_tb.
+[sst_width] 233
+[signals_width] 160
+[sst_expanded] 1
+[sst_vpaned_height] 206
+@28
+clock_div_tb.uut.clk
+@22
+clock_div_tb.uut.count[4:0]
+@28
+clock_div_tb.uut.out
+@29
+clock_div_tb.uut.rst
+[pattern_trace] 1
+[pattern_trace] 0
