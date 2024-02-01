@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Thu Feb  1 08:34:25 2024
+[*]
+[dumpfile] "glitch_test_tb.vcd"
+[dumpfile_mtime] "Thu Feb  1 08:33:50 2024"
+[dumpfile_size] 128352
+[savefile] "glitch_test_tb.gtkw"
+[timestart] 0
+[size] 1288 600
+[pos] 95 79
+*-14.100000 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[treeopen] glitch_test_tb.
+[sst_width] 253
+[signals_width] 111
+[sst_expanded] 1
+[sst_vpaned_height] 159
+@28
+glitch_test_tb.clk
+glitch_test_tb.rst
+@22
+glitch_test_tb.out[3:0]
+@23
+glitch_test_tb.count[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
